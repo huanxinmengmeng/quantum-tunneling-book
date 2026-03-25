@@ -92,7 +92,7 @@ python code/quantum_tunneling_code.py
 
 如果您希望引用本书内容，请注明：
 
-> 柳明. 量子隧穿：微观奇迹与跨维度革命（科学叙事版）. GitHub, 2026. https://github.com/你的用户名/quantum-tunneling-book
+> 柳明. 量子隧穿：微观奇迹与跨维度革命（科学叙事版）. GitHub, 2026. https://github.com/huanxinmengmeng/quantum-tunneling-book
 
 欢迎提交 Issue 或 Pull Request 来改进文档、修正错误或增加代码示例。
 
